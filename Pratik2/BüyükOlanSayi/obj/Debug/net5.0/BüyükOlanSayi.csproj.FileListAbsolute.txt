@@ -1,0 +1,15 @@
+C:\Users\ULAŞ\source\repos\Pratik2\BüyükOlanSayi\bin\Debug\net5.0\BüyükOlanSayi.exe
+C:\Users\ULAŞ\source\repos\Pratik2\BüyükOlanSayi\bin\Debug\net5.0\BüyükOlanSayi.deps.json
+C:\Users\ULAŞ\source\repos\Pratik2\BüyükOlanSayi\bin\Debug\net5.0\BüyükOlanSayi.runtimeconfig.json
+C:\Users\ULAŞ\source\repos\Pratik2\BüyükOlanSayi\bin\Debug\net5.0\BüyükOlanSayi.runtimeconfig.dev.json
+C:\Users\ULAŞ\source\repos\Pratik2\BüyükOlanSayi\bin\Debug\net5.0\BüyükOlanSayi.dll
+C:\Users\ULAŞ\source\repos\Pratik2\BüyükOlanSayi\bin\Debug\net5.0\ref\BüyükOlanSayi.dll
+C:\Users\ULAŞ\source\repos\Pratik2\BüyükOlanSayi\bin\Debug\net5.0\BüyükOlanSayi.pdb
+C:\Users\ULAŞ\source\repos\Pratik2\BüyükOlanSayi\obj\Debug\net5.0\BüyükOlanSayi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ULAŞ\source\repos\Pratik2\BüyükOlanSayi\obj\Debug\net5.0\BüyükOlanSayi.AssemblyInfoInputs.cache
+C:\Users\ULAŞ\source\repos\Pratik2\BüyükOlanSayi\obj\Debug\net5.0\BüyükOlanSayi.AssemblyInfo.cs
+C:\Users\ULAŞ\source\repos\Pratik2\BüyükOlanSayi\obj\Debug\net5.0\BüyükOlanSayi.csproj.CoreCompileInputs.cache
+C:\Users\ULAŞ\source\repos\Pratik2\BüyükOlanSayi\obj\Debug\net5.0\BüyükOlanSayi.dll
+C:\Users\ULAŞ\source\repos\Pratik2\BüyükOlanSayi\obj\Debug\net5.0\ref\BüyükOlanSayi.dll
+C:\Users\ULAŞ\source\repos\Pratik2\BüyükOlanSayi\obj\Debug\net5.0\BüyükOlanSayi.pdb
+C:\Users\ULAŞ\source\repos\Pratik2\BüyükOlanSayi\obj\Debug\net5.0\BüyükOlanSayi.genruntimeconfig.cache

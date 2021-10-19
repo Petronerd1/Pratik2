@@ -1,0 +1,15 @@
+C:\Users\ULAŞ\source\repos\Pratik2\20SayiOrtalama\obj\Debug\net5.0\20SayiOrtalama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ULAŞ\source\repos\Pratik2\20SayiOrtalama\obj\Debug\net5.0\20SayiOrtalama.AssemblyInfoInputs.cache
+C:\Users\ULAŞ\source\repos\Pratik2\20SayiOrtalama\obj\Debug\net5.0\20SayiOrtalama.AssemblyInfo.cs
+C:\Users\ULAŞ\source\repos\Pratik2\20SayiOrtalama\obj\Debug\net5.0\20SayiOrtalama.csproj.CoreCompileInputs.cache
+C:\Users\ULAŞ\source\repos\Pratik2\20SayiOrtalama\bin\Debug\net5.0\20SayiOrtalama.exe
+C:\Users\ULAŞ\source\repos\Pratik2\20SayiOrtalama\bin\Debug\net5.0\20SayiOrtalama.deps.json
+C:\Users\ULAŞ\source\repos\Pratik2\20SayiOrtalama\bin\Debug\net5.0\20SayiOrtalama.runtimeconfig.json
+C:\Users\ULAŞ\source\repos\Pratik2\20SayiOrtalama\bin\Debug\net5.0\20SayiOrtalama.runtimeconfig.dev.json
+C:\Users\ULAŞ\source\repos\Pratik2\20SayiOrtalama\bin\Debug\net5.0\20SayiOrtalama.dll
+C:\Users\ULAŞ\source\repos\Pratik2\20SayiOrtalama\bin\Debug\net5.0\ref\20SayiOrtalama.dll
+C:\Users\ULAŞ\source\repos\Pratik2\20SayiOrtalama\bin\Debug\net5.0\20SayiOrtalama.pdb
+C:\Users\ULAŞ\source\repos\Pratik2\20SayiOrtalama\obj\Debug\net5.0\20SayiOrtalama.dll
+C:\Users\ULAŞ\source\repos\Pratik2\20SayiOrtalama\obj\Debug\net5.0\ref\20SayiOrtalama.dll
+C:\Users\ULAŞ\source\repos\Pratik2\20SayiOrtalama\obj\Debug\net5.0\20SayiOrtalama.pdb
+C:\Users\ULAŞ\source\repos\Pratik2\20SayiOrtalama\obj\Debug\net5.0\20SayiOrtalama.genruntimeconfig.cache

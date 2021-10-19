@@ -1,0 +1,16 @@
+C:\Users\ULAŞ\source\repos\Pratik2\SayiBulmaOyunu\bin\Debug\net5.0\SayiBulmaOyunu.exe
+C:\Users\ULAŞ\source\repos\Pratik2\SayiBulmaOyunu\bin\Debug\net5.0\SayiBulmaOyunu.deps.json
+C:\Users\ULAŞ\source\repos\Pratik2\SayiBulmaOyunu\bin\Debug\net5.0\SayiBulmaOyunu.runtimeconfig.json
+C:\Users\ULAŞ\source\repos\Pratik2\SayiBulmaOyunu\bin\Debug\net5.0\SayiBulmaOyunu.runtimeconfig.dev.json
+C:\Users\ULAŞ\source\repos\Pratik2\SayiBulmaOyunu\bin\Debug\net5.0\SayiBulmaOyunu.dll
+C:\Users\ULAŞ\source\repos\Pratik2\SayiBulmaOyunu\bin\Debug\net5.0\ref\SayiBulmaOyunu.dll
+C:\Users\ULAŞ\source\repos\Pratik2\SayiBulmaOyunu\bin\Debug\net5.0\SayiBulmaOyunu.pdb
+C:\Users\ULAŞ\source\repos\Pratik2\SayiBulmaOyunu\obj\Debug\net5.0\SayiBulmaOyunu.csproj.AssemblyReference.cache
+C:\Users\ULAŞ\source\repos\Pratik2\SayiBulmaOyunu\obj\Debug\net5.0\SayiBulmaOyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ULAŞ\source\repos\Pratik2\SayiBulmaOyunu\obj\Debug\net5.0\SayiBulmaOyunu.AssemblyInfoInputs.cache
+C:\Users\ULAŞ\source\repos\Pratik2\SayiBulmaOyunu\obj\Debug\net5.0\SayiBulmaOyunu.AssemblyInfo.cs
+C:\Users\ULAŞ\source\repos\Pratik2\SayiBulmaOyunu\obj\Debug\net5.0\SayiBulmaOyunu.csproj.CoreCompileInputs.cache
+C:\Users\ULAŞ\source\repos\Pratik2\SayiBulmaOyunu\obj\Debug\net5.0\SayiBulmaOyunu.dll
+C:\Users\ULAŞ\source\repos\Pratik2\SayiBulmaOyunu\obj\Debug\net5.0\ref\SayiBulmaOyunu.dll
+C:\Users\ULAŞ\source\repos\Pratik2\SayiBulmaOyunu\obj\Debug\net5.0\SayiBulmaOyunu.pdb
+C:\Users\ULAŞ\source\repos\Pratik2\SayiBulmaOyunu\obj\Debug\net5.0\SayiBulmaOyunu.genruntimeconfig.cache

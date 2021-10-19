@@ -1,0 +1,16 @@
+C:\Users\ULAŞ\source\repos\Pratik2\İkiSayiArasındakiTekÇiftSayi\bin\Debug\net5.0\İkiSayiArasındakiTekÇiftSayi.exe
+C:\Users\ULAŞ\source\repos\Pratik2\İkiSayiArasındakiTekÇiftSayi\bin\Debug\net5.0\İkiSayiArasındakiTekÇiftSayi.deps.json
+C:\Users\ULAŞ\source\repos\Pratik2\İkiSayiArasındakiTekÇiftSayi\bin\Debug\net5.0\İkiSayiArasındakiTekÇiftSayi.runtimeconfig.json
+C:\Users\ULAŞ\source\repos\Pratik2\İkiSayiArasındakiTekÇiftSayi\bin\Debug\net5.0\İkiSayiArasındakiTekÇiftSayi.runtimeconfig.dev.json
+C:\Users\ULAŞ\source\repos\Pratik2\İkiSayiArasındakiTekÇiftSayi\bin\Debug\net5.0\İkiSayiArasındakiTekÇiftSayi.dll
+C:\Users\ULAŞ\source\repos\Pratik2\İkiSayiArasındakiTekÇiftSayi\bin\Debug\net5.0\ref\İkiSayiArasındakiTekÇiftSayi.dll
+C:\Users\ULAŞ\source\repos\Pratik2\İkiSayiArasındakiTekÇiftSayi\bin\Debug\net5.0\İkiSayiArasındakiTekÇiftSayi.pdb
+C:\Users\ULAŞ\source\repos\Pratik2\İkiSayiArasındakiTekÇiftSayi\obj\Debug\net5.0\İkiSayiArasındakiTekÇiftSayi.csproj.AssemblyReference.cache
+C:\Users\ULAŞ\source\repos\Pratik2\İkiSayiArasındakiTekÇiftSayi\obj\Debug\net5.0\İkiSayiArasındakiTekÇiftSayi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ULAŞ\source\repos\Pratik2\İkiSayiArasındakiTekÇiftSayi\obj\Debug\net5.0\İkiSayiArasındakiTekÇiftSayi.AssemblyInfoInputs.cache
+C:\Users\ULAŞ\source\repos\Pratik2\İkiSayiArasındakiTekÇiftSayi\obj\Debug\net5.0\İkiSayiArasındakiTekÇiftSayi.AssemblyInfo.cs
+C:\Users\ULAŞ\source\repos\Pratik2\İkiSayiArasındakiTekÇiftSayi\obj\Debug\net5.0\İkiSayiArasındakiTekÇiftSayi.csproj.CoreCompileInputs.cache
+C:\Users\ULAŞ\source\repos\Pratik2\İkiSayiArasındakiTekÇiftSayi\obj\Debug\net5.0\İkiSayiArasındakiTekÇiftSayi.dll
+C:\Users\ULAŞ\source\repos\Pratik2\İkiSayiArasındakiTekÇiftSayi\obj\Debug\net5.0\ref\İkiSayiArasındakiTekÇiftSayi.dll
+C:\Users\ULAŞ\source\repos\Pratik2\İkiSayiArasındakiTekÇiftSayi\obj\Debug\net5.0\İkiSayiArasındakiTekÇiftSayi.pdb
+C:\Users\ULAŞ\source\repos\Pratik2\İkiSayiArasındakiTekÇiftSayi\obj\Debug\net5.0\İkiSayiArasındakiTekÇiftSayi.genruntimeconfig.cache

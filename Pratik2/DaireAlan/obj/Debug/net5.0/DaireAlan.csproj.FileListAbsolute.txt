@@ -1,0 +1,15 @@
+C:\Users\ULAŞ\source\repos\Pratik2\DaireAlan\bin\Debug\net5.0\DaireAlan.exe
+C:\Users\ULAŞ\source\repos\Pratik2\DaireAlan\bin\Debug\net5.0\DaireAlan.deps.json
+C:\Users\ULAŞ\source\repos\Pratik2\DaireAlan\bin\Debug\net5.0\DaireAlan.runtimeconfig.json
+C:\Users\ULAŞ\source\repos\Pratik2\DaireAlan\bin\Debug\net5.0\DaireAlan.runtimeconfig.dev.json
+C:\Users\ULAŞ\source\repos\Pratik2\DaireAlan\bin\Debug\net5.0\DaireAlan.dll
+C:\Users\ULAŞ\source\repos\Pratik2\DaireAlan\bin\Debug\net5.0\ref\DaireAlan.dll
+C:\Users\ULAŞ\source\repos\Pratik2\DaireAlan\bin\Debug\net5.0\DaireAlan.pdb
+C:\Users\ULAŞ\source\repos\Pratik2\DaireAlan\obj\Debug\net5.0\DaireAlan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ULAŞ\source\repos\Pratik2\DaireAlan\obj\Debug\net5.0\DaireAlan.AssemblyInfoInputs.cache
+C:\Users\ULAŞ\source\repos\Pratik2\DaireAlan\obj\Debug\net5.0\DaireAlan.AssemblyInfo.cs
+C:\Users\ULAŞ\source\repos\Pratik2\DaireAlan\obj\Debug\net5.0\DaireAlan.csproj.CoreCompileInputs.cache
+C:\Users\ULAŞ\source\repos\Pratik2\DaireAlan\obj\Debug\net5.0\DaireAlan.dll
+C:\Users\ULAŞ\source\repos\Pratik2\DaireAlan\obj\Debug\net5.0\ref\DaireAlan.dll
+C:\Users\ULAŞ\source\repos\Pratik2\DaireAlan\obj\Debug\net5.0\DaireAlan.pdb
+C:\Users\ULAŞ\source\repos\Pratik2\DaireAlan\obj\Debug\net5.0\DaireAlan.genruntimeconfig.cache

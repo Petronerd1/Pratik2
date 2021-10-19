@@ -1,0 +1,15 @@
+C:\Users\ULAŞ\source\repos\Pratik2\Tek-CiftSayi\bin\Debug\net5.0\Tek-CiftSayi.exe
+C:\Users\ULAŞ\source\repos\Pratik2\Tek-CiftSayi\bin\Debug\net5.0\Tek-CiftSayi.deps.json
+C:\Users\ULAŞ\source\repos\Pratik2\Tek-CiftSayi\bin\Debug\net5.0\Tek-CiftSayi.runtimeconfig.json
+C:\Users\ULAŞ\source\repos\Pratik2\Tek-CiftSayi\bin\Debug\net5.0\Tek-CiftSayi.runtimeconfig.dev.json
+C:\Users\ULAŞ\source\repos\Pratik2\Tek-CiftSayi\bin\Debug\net5.0\Tek-CiftSayi.dll
+C:\Users\ULAŞ\source\repos\Pratik2\Tek-CiftSayi\bin\Debug\net5.0\ref\Tek-CiftSayi.dll
+C:\Users\ULAŞ\source\repos\Pratik2\Tek-CiftSayi\bin\Debug\net5.0\Tek-CiftSayi.pdb
+C:\Users\ULAŞ\source\repos\Pratik2\Tek-CiftSayi\obj\Debug\net5.0\Tek-CiftSayi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ULAŞ\source\repos\Pratik2\Tek-CiftSayi\obj\Debug\net5.0\Tek-CiftSayi.AssemblyInfoInputs.cache
+C:\Users\ULAŞ\source\repos\Pratik2\Tek-CiftSayi\obj\Debug\net5.0\Tek-CiftSayi.AssemblyInfo.cs
+C:\Users\ULAŞ\source\repos\Pratik2\Tek-CiftSayi\obj\Debug\net5.0\Tek-CiftSayi.csproj.CoreCompileInputs.cache
+C:\Users\ULAŞ\source\repos\Pratik2\Tek-CiftSayi\obj\Debug\net5.0\Tek-CiftSayi.dll
+C:\Users\ULAŞ\source\repos\Pratik2\Tek-CiftSayi\obj\Debug\net5.0\ref\Tek-CiftSayi.dll
+C:\Users\ULAŞ\source\repos\Pratik2\Tek-CiftSayi\obj\Debug\net5.0\Tek-CiftSayi.pdb
+C:\Users\ULAŞ\source\repos\Pratik2\Tek-CiftSayi\obj\Debug\net5.0\Tek-CiftSayi.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\ULAŞ\source\repos\Pratik2\DikdörtgenÇevreAlan\bin\Debug\net5.0\DikdörtgenÇevreAlan.exe
+C:\Users\ULAŞ\source\repos\Pratik2\DikdörtgenÇevreAlan\bin\Debug\net5.0\DikdörtgenÇevreAlan.deps.json
+C:\Users\ULAŞ\source\repos\Pratik2\DikdörtgenÇevreAlan\bin\Debug\net5.0\DikdörtgenÇevreAlan.runtimeconfig.json
+C:\Users\ULAŞ\source\repos\Pratik2\DikdörtgenÇevreAlan\bin\Debug\net5.0\DikdörtgenÇevreAlan.runtimeconfig.dev.json
+C:\Users\ULAŞ\source\repos\Pratik2\DikdörtgenÇevreAlan\bin\Debug\net5.0\DikdörtgenÇevreAlan.dll
+C:\Users\ULAŞ\source\repos\Pratik2\DikdörtgenÇevreAlan\bin\Debug\net5.0\ref\DikdörtgenÇevreAlan.dll
+C:\Users\ULAŞ\source\repos\Pratik2\DikdörtgenÇevreAlan\bin\Debug\net5.0\DikdörtgenÇevreAlan.pdb
+C:\Users\ULAŞ\source\repos\Pratik2\DikdörtgenÇevreAlan\obj\Debug\net5.0\DikdörtgenÇevreAlan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ULAŞ\source\repos\Pratik2\DikdörtgenÇevreAlan\obj\Debug\net5.0\DikdörtgenÇevreAlan.AssemblyInfoInputs.cache
+C:\Users\ULAŞ\source\repos\Pratik2\DikdörtgenÇevreAlan\obj\Debug\net5.0\DikdörtgenÇevreAlan.AssemblyInfo.cs
+C:\Users\ULAŞ\source\repos\Pratik2\DikdörtgenÇevreAlan\obj\Debug\net5.0\DikdörtgenÇevreAlan.csproj.CoreCompileInputs.cache
+C:\Users\ULAŞ\source\repos\Pratik2\DikdörtgenÇevreAlan\obj\Debug\net5.0\DikdörtgenÇevreAlan.dll
+C:\Users\ULAŞ\source\repos\Pratik2\DikdörtgenÇevreAlan\obj\Debug\net5.0\ref\DikdörtgenÇevreAlan.dll
+C:\Users\ULAŞ\source\repos\Pratik2\DikdörtgenÇevreAlan\obj\Debug\net5.0\DikdörtgenÇevreAlan.pdb
+C:\Users\ULAŞ\source\repos\Pratik2\DikdörtgenÇevreAlan\obj\Debug\net5.0\DikdörtgenÇevreAlan.genruntimeconfig.cache

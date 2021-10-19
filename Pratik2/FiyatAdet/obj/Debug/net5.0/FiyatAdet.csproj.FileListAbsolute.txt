@@ -1,0 +1,15 @@
+C:\Users\ULAŞ\source\repos\Pratik2\FiyatAdet\bin\Debug\net5.0\FiyatAdet.exe
+C:\Users\ULAŞ\source\repos\Pratik2\FiyatAdet\bin\Debug\net5.0\FiyatAdet.deps.json
+C:\Users\ULAŞ\source\repos\Pratik2\FiyatAdet\bin\Debug\net5.0\FiyatAdet.runtimeconfig.json
+C:\Users\ULAŞ\source\repos\Pratik2\FiyatAdet\bin\Debug\net5.0\FiyatAdet.runtimeconfig.dev.json
+C:\Users\ULAŞ\source\repos\Pratik2\FiyatAdet\bin\Debug\net5.0\FiyatAdet.dll
+C:\Users\ULAŞ\source\repos\Pratik2\FiyatAdet\bin\Debug\net5.0\ref\FiyatAdet.dll
+C:\Users\ULAŞ\source\repos\Pratik2\FiyatAdet\bin\Debug\net5.0\FiyatAdet.pdb
+C:\Users\ULAŞ\source\repos\Pratik2\FiyatAdet\obj\Debug\net5.0\FiyatAdet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ULAŞ\source\repos\Pratik2\FiyatAdet\obj\Debug\net5.0\FiyatAdet.AssemblyInfoInputs.cache
+C:\Users\ULAŞ\source\repos\Pratik2\FiyatAdet\obj\Debug\net5.0\FiyatAdet.AssemblyInfo.cs
+C:\Users\ULAŞ\source\repos\Pratik2\FiyatAdet\obj\Debug\net5.0\FiyatAdet.csproj.CoreCompileInputs.cache
+C:\Users\ULAŞ\source\repos\Pratik2\FiyatAdet\obj\Debug\net5.0\FiyatAdet.dll
+C:\Users\ULAŞ\source\repos\Pratik2\FiyatAdet\obj\Debug\net5.0\ref\FiyatAdet.dll
+C:\Users\ULAŞ\source\repos\Pratik2\FiyatAdet\obj\Debug\net5.0\FiyatAdet.pdb
+C:\Users\ULAŞ\source\repos\Pratik2\FiyatAdet\obj\Debug\net5.0\FiyatAdet.genruntimeconfig.cache

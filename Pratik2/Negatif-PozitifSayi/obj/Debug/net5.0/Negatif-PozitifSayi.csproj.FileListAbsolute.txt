@@ -1,0 +1,16 @@
+C:\Users\ULAŞ\source\repos\Pratik2\Negatif-PozitifSayi\bin\Debug\net5.0\Negatif-PozitifSayi.exe
+C:\Users\ULAŞ\source\repos\Pratik2\Negatif-PozitifSayi\bin\Debug\net5.0\Negatif-PozitifSayi.deps.json
+C:\Users\ULAŞ\source\repos\Pratik2\Negatif-PozitifSayi\bin\Debug\net5.0\Negatif-PozitifSayi.runtimeconfig.json
+C:\Users\ULAŞ\source\repos\Pratik2\Negatif-PozitifSayi\bin\Debug\net5.0\Negatif-PozitifSayi.runtimeconfig.dev.json
+C:\Users\ULAŞ\source\repos\Pratik2\Negatif-PozitifSayi\bin\Debug\net5.0\Negatif-PozitifSayi.dll
+C:\Users\ULAŞ\source\repos\Pratik2\Negatif-PozitifSayi\bin\Debug\net5.0\ref\Negatif-PozitifSayi.dll
+C:\Users\ULAŞ\source\repos\Pratik2\Negatif-PozitifSayi\bin\Debug\net5.0\Negatif-PozitifSayi.pdb
+C:\Users\ULAŞ\source\repos\Pratik2\Negatif-PozitifSayi\obj\Debug\net5.0\Negatif-PozitifSayi.csproj.AssemblyReference.cache
+C:\Users\ULAŞ\source\repos\Pratik2\Negatif-PozitifSayi\obj\Debug\net5.0\Negatif-PozitifSayi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ULAŞ\source\repos\Pratik2\Negatif-PozitifSayi\obj\Debug\net5.0\Negatif-PozitifSayi.AssemblyInfoInputs.cache
+C:\Users\ULAŞ\source\repos\Pratik2\Negatif-PozitifSayi\obj\Debug\net5.0\Negatif-PozitifSayi.AssemblyInfo.cs
+C:\Users\ULAŞ\source\repos\Pratik2\Negatif-PozitifSayi\obj\Debug\net5.0\Negatif-PozitifSayi.csproj.CoreCompileInputs.cache
+C:\Users\ULAŞ\source\repos\Pratik2\Negatif-PozitifSayi\obj\Debug\net5.0\Negatif-PozitifSayi.dll
+C:\Users\ULAŞ\source\repos\Pratik2\Negatif-PozitifSayi\obj\Debug\net5.0\ref\Negatif-PozitifSayi.dll
+C:\Users\ULAŞ\source\repos\Pratik2\Negatif-PozitifSayi\obj\Debug\net5.0\Negatif-PozitifSayi.pdb
+C:\Users\ULAŞ\source\repos\Pratik2\Negatif-PozitifSayi\obj\Debug\net5.0\Negatif-PozitifSayi.genruntimeconfig.cache

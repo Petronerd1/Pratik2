@@ -1,0 +1,15 @@
+C:\Users\ULAŞ\source\repos\Pratik2\MetniIstenilenKadarYazdırma\bin\Debug\net5.0\MetniIstenilenKadarYazdırma.exe
+C:\Users\ULAŞ\source\repos\Pratik2\MetniIstenilenKadarYazdırma\bin\Debug\net5.0\MetniIstenilenKadarYazdırma.deps.json
+C:\Users\ULAŞ\source\repos\Pratik2\MetniIstenilenKadarYazdırma\bin\Debug\net5.0\MetniIstenilenKadarYazdırma.runtimeconfig.json
+C:\Users\ULAŞ\source\repos\Pratik2\MetniIstenilenKadarYazdırma\bin\Debug\net5.0\MetniIstenilenKadarYazdırma.runtimeconfig.dev.json
+C:\Users\ULAŞ\source\repos\Pratik2\MetniIstenilenKadarYazdırma\bin\Debug\net5.0\MetniIstenilenKadarYazdırma.dll
+C:\Users\ULAŞ\source\repos\Pratik2\MetniIstenilenKadarYazdırma\bin\Debug\net5.0\ref\MetniIstenilenKadarYazdırma.dll
+C:\Users\ULAŞ\source\repos\Pratik2\MetniIstenilenKadarYazdırma\bin\Debug\net5.0\MetniIstenilenKadarYazdırma.pdb
+C:\Users\ULAŞ\source\repos\Pratik2\MetniIstenilenKadarYazdırma\obj\Debug\net5.0\MetniIstenilenKadarYazdırma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ULAŞ\source\repos\Pratik2\MetniIstenilenKadarYazdırma\obj\Debug\net5.0\MetniIstenilenKadarYazdırma.AssemblyInfoInputs.cache
+C:\Users\ULAŞ\source\repos\Pratik2\MetniIstenilenKadarYazdırma\obj\Debug\net5.0\MetniIstenilenKadarYazdırma.AssemblyInfo.cs
+C:\Users\ULAŞ\source\repos\Pratik2\MetniIstenilenKadarYazdırma\obj\Debug\net5.0\MetniIstenilenKadarYazdırma.csproj.CoreCompileInputs.cache
+C:\Users\ULAŞ\source\repos\Pratik2\MetniIstenilenKadarYazdırma\obj\Debug\net5.0\MetniIstenilenKadarYazdırma.dll
+C:\Users\ULAŞ\source\repos\Pratik2\MetniIstenilenKadarYazdırma\obj\Debug\net5.0\ref\MetniIstenilenKadarYazdırma.dll
+C:\Users\ULAŞ\source\repos\Pratik2\MetniIstenilenKadarYazdırma\obj\Debug\net5.0\MetniIstenilenKadarYazdırma.pdb
+C:\Users\ULAŞ\source\repos\Pratik2\MetniIstenilenKadarYazdırma\obj\Debug\net5.0\MetniIstenilenKadarYazdırma.genruntimeconfig.cache
